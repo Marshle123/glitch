@@ -1,1 +1,1 @@
-print("мышка сасика тун тун");
+print("iijearguigruirggr");
