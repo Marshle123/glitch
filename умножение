@@ -1,0 +1,14 @@
+#include <stdio.h>
+
+int main() {
+    int number;
+    
+    printf("Введите число: ");
+    scanf("%d", &number);  // Считываем число от пользователя
+    
+    int result = number * 7;  // Умножаем на 7
+    
+    printf("%d * 7 = %d\n", number, result);  // Выводим результат
+    
+    return 0;
+}
